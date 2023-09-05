@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((file+128))
+echo $((file + 128))
